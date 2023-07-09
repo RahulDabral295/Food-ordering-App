@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_remove_circle.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_remove_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_menu_recycler_row.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\menu_manu.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\menu\\manu.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_place_order_recycler_row.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order_succeess.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\raw_restaurent.json.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\raw\\restaurent.json"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fsplash.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_fsplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order_history.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_recycler_row.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_place_your_order.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\layout_history_items.xml.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\layout\\history_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\risab\\AndroidStudioProjects\\FoodOrderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    }
+]

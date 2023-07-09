@@ -1,0 +1,578 @@
+[
+  {
+    "name":"Karan Dhaba",
+    "address":"AE-26,Kath Rd,Ram Ganga Vihar 1",
+    "delivery_charge": 5,
+    "image":"https://pipingpotcurry.com/wp-content/uploads/2019/04/Lauki-Chana-Dal-Piping-Pot-Curry-9.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Dal Makhani",
+        "price": 10.00,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=40"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": 13.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFwTKzsESqhcmxb3hNk0XZUicElm_qifjog&usqp=CAU"
+      },
+      {
+        "name": "Matar Paneer",
+        "price": 4.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpx-9GLO4JAYojQn_orLqiPGtPNmCWWtz2A&usqp=CAU"
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrozsC6kK1f3kZ7gHgWn9LLL9RNyFud4ldYA&usqp=CAU"
+      },
+      {
+        "name": "Lachha Paratha",
+        "price": 4.00,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PDaQIlFcc4a68lqadrCK7FoSPBXsF8cppw&usqp=CAU"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": 3.25,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMss5_PpTZ69koc5vglb8g0x5nXR3UEY22g&usqp=CAU"
+      },
+      {
+        "name": "Masala Rice",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jp_UcdaAffSYPIAqQ7p6mzWLOeYRQk83EA&usqp=CAU"
+      },
+      {
+        "name": "Boondi Rayta",
+        "price": 3.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo17xwdT7cu0LoU1ryCDeGIQv6BdljgJhbGQ&usqp=CAU"
+      },
+      {
+        "name": "Butter Roti ",
+        "price": 8.09,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vq0aXCuvStEbLJhvVyoMJUVwrZ7XzG44vg&usqp=CAU"
+      },
+      {
+        "name": "Dal Butter",
+        "price": 6.49,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=420"
+      }
+    ]
+  },
+  {
+    "name":"Domino's Pizza",
+    "address":" Shop No J & K, Ground Floor, RK Plaza Ashiyana, Kanth Rd",
+    "delivery_charge": 4,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2Cw66EK05rbtp_oGSH7C1QoohbKFPtJ8Bw&usqp=CAU",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Paneer & Onion",
+        "price": 2.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQArrlR_X6KNBrqbY8e6bY2Teu0B8DhWSUShw&usqp=CAU"
+      },
+      {
+        "name": "Choco Lava Cake",
+        "price": 3.59,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmZXxW1CWnWvr0HxBP_D2pN0QKnkxKqFjCg&usqp=CAU"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 5.44,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLjsgl2pGHAbbDPo8T-LR7wbV7vHjr1OTAw&usqp=CAU"
+      },
+      {
+        "name": "Burger Pizza",
+        "price": 2.00,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-F1IlKNiSVyIG9jvlq49_QF6lSST-2t47w&usqp=CAU"
+      },
+      {
+        "name": "Milkshake",
+        "price": 3.49,
+        "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": 4.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3.59,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 8.29,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+
+    ]
+  },
+  {
+    "name":"McDonald's",
+    "address":" Ground Floor, Phoenix United Mall",
+    "delivery_charge": 5,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 4.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3.59,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 3.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 8.29,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 6.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"KFC",
+    "address":"AE-26,Kath Rd,Ram Ganga Vihar 2",
+    "delivery_charge": 50,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xedZtq-mQMcOChEY6kvVqDtANQ_zKgtBQw&usqp=CAU",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Dal Makhani",
+        "price": 10.00,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=40"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": 13.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFwTKzsESqhcmxb3hNk0XZUicElm_qifjog&usqp=CAU"
+      },
+      {
+        "name": "Matar Paneer",
+        "price": 4.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpx-9GLO4JAYojQn_orLqiPGtPNmCWWtz2A&usqp=CAU"
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrozsC6kK1f3kZ7gHgWn9LLL9RNyFud4ldYA&usqp=CAU"
+      },
+      {
+        "name": "Lachha Paratha",
+        "price": 4.00,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PDaQIlFcc4a68lqadrCK7FoSPBXsF8cppw&usqp=CAU"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": 3.25,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMss5_PpTZ69koc5vglb8g0x5nXR3UEY22g&usqp=CAU"
+      },
+      {
+        "name": "Masala Rice",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jp_UcdaAffSYPIAqQ7p6mzWLOeYRQk83EA&usqp=CAU"
+      },
+      {
+        "name": "Boondi Rayta",
+        "price": 3.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo17xwdT7cu0LoU1ryCDeGIQv6BdljgJhbGQ&usqp=CAU"
+      },
+      {
+        "name": "Butter Roti ",
+        "price": 8.09,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vq0aXCuvStEbLJhvVyoMJUVwrZ7XzG44vg&usqp=CAU"
+      },
+      {
+        "name": "Dal Butter",
+        "price": 6.49,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=420"
+      }
+    ]
+  },{
+  "name":"Piza Hut",
+  "address":"AE-26,Kath Rd,Ram Ganga Vihar 3",
+  "delivery_charge": 5,
+  "image":"https://pipingpotcurry.com/wp-content/uploads/2019/04/Lauki-Chana-Dal-Piping-Pot-Curry-9.jpg",
+
+  "hours":{
+    "Sunday":"11:00 AM - 7:00 PM",
+    "Monday":"10:00 AM - 9:00 PM",
+    "Tuesday":"10:00 AM - 10:00 PM",
+    "Wednesday":"10:00 AM - 11:00 PM",
+    "Thursday":"10:00 AM - 10:00 PM",
+    "Friday":"10:00 AM - 11:00 PM",
+    "Saturday":"10:00 AM - 2:00 PM"
+  },
+  "menus": [
+    {
+      "name": "Dal Makhani",
+      "price": 10.00,
+      "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=40"
+    },
+    {
+      "name": "Kadai Paneer",
+      "price": 13.99,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFwTKzsESqhcmxb3hNk0XZUicElm_qifjog&usqp=CAU"
+    },
+    {
+      "name": "Matar Paneer",
+      "price": 4.99,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpx-9GLO4JAYojQn_orLqiPGtPNmCWWtz2A&usqp=CAU"
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": 5.49,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrozsC6kK1f3kZ7gHgWn9LLL9RNyFud4ldYA&usqp=CAU"
+    },
+    {
+      "name": "Lachha Paratha",
+      "price": 4.00,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PDaQIlFcc4a68lqadrCK7FoSPBXsF8cppw&usqp=CAU"
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 3.25,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMss5_PpTZ69koc5vglb8g0x5nXR3UEY22g&usqp=CAU"
+    },
+    {
+      "name": "Masala Rice",
+      "price": 5.49,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jp_UcdaAffSYPIAqQ7p6mzWLOeYRQk83EA&usqp=CAU"
+    },
+    {
+      "name": "Boondi Rayta",
+      "price": 3.99,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo17xwdT7cu0LoU1ryCDeGIQv6BdljgJhbGQ&usqp=CAU"
+    },
+    {
+      "name": "Butter Roti ",
+      "price": 8.09,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vq0aXCuvStEbLJhvVyoMJUVwrZ7XzG44vg&usqp=CAU"
+    },
+    {
+      "name": "Dal Butter",
+      "price": 6.49,
+      "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=420"
+    }
+  ]
+},
+  {
+    "name":"Food Plaza",
+    "address":"AE-26,Kath Rd,Rampur 1",
+    "delivery_charge": 5,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRii7Ym91AfEQLaDQV-SOO1Suk4aXwcokQzw&usqp=CAU",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Dal Makhani",
+        "price": 10.00,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=40"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": 13.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFwTKzsESqhcmxb3hNk0XZUicElm_qifjog&usqp=CAU"
+      },
+      {
+        "name": "Matar Paneer",
+        "price": 4.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpx-9GLO4JAYojQn_orLqiPGtPNmCWWtz2A&usqp=CAU"
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrozsC6kK1f3kZ7gHgWn9LLL9RNyFud4ldYA&usqp=CAU"
+      },
+      {
+        "name": "Lachha Paratha",
+        "price": 4.00,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PDaQIlFcc4a68lqadrCK7FoSPBXsF8cppw&usqp=CAU"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": 3.25,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMss5_PpTZ69koc5vglb8g0x5nXR3UEY22g&usqp=CAU"
+      },
+      {
+        "name": "Masala Rice",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jp_UcdaAffSYPIAqQ7p6mzWLOeYRQk83EA&usqp=CAU"
+      },
+      {
+        "name": "Boondi Rayta",
+        "price": 3.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo17xwdT7cu0LoU1ryCDeGIQv6BdljgJhbGQ&usqp=CAU"
+      },
+      {
+        "name": "Butter Roti ",
+        "price": 8.09,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vq0aXCuvStEbLJhvVyoMJUVwrZ7XzG44vg&usqp=CAU"
+      },
+      {
+        "name": "Dal Butter",
+        "price": 6.49,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=420"
+      }
+    ]
+  },
+  {
+    "name":"NH 24",
+    "address":"AE-26,Moradabad , high way1",
+    "delivery_charge": 5,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWPy3jdnJ-xgsAvTOejIHJz4Us8D8Wu8V1g&usqp=CAU",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Dal Makhani",
+        "price": 10.00,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=40"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": 13.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFwTKzsESqhcmxb3hNk0XZUicElm_qifjog&usqp=CAU"
+      },
+      {
+        "name": "Matar Paneer",
+        "price": 4.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpx-9GLO4JAYojQn_orLqiPGtPNmCWWtz2A&usqp=CAU"
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrozsC6kK1f3kZ7gHgWn9LLL9RNyFud4ldYA&usqp=CAU"
+      },
+      {
+        "name": "Lachha Paratha",
+        "price": 4.00,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PDaQIlFcc4a68lqadrCK7FoSPBXsF8cppw&usqp=CAU"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": 3.25,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMss5_PpTZ69koc5vglb8g0x5nXR3UEY22g&usqp=CAU"
+      },
+      {
+        "name": "Masala Rice",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jp_UcdaAffSYPIAqQ7p6mzWLOeYRQk83EA&usqp=CAU"
+      },
+      {
+        "name": "Boondi Rayta",
+        "price": 3.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo17xwdT7cu0LoU1ryCDeGIQv6BdljgJhbGQ&usqp=CAU"
+      },
+      {
+        "name": "Butter Roti ",
+        "price": 8.09,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vq0aXCuvStEbLJhvVyoMJUVwrZ7XzG44vg&usqp=CAU"
+      },
+      {
+        "name": "Dal Butter",
+        "price": 6.49,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=420"
+      }
+    ]
+  },
+  {
+    "name":"up 22 Dhaba",
+    "address":"AE-26,Rampur,1",
+    "delivery_charge": 5,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQeGjuSixvMChS-Rihj8ZcNwjyPzqoX6_gCg&usqp=CAU",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Dal Makhani",
+        "price": 10.00,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=40"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": 13.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFwTKzsESqhcmxb3hNk0XZUicElm_qifjog&usqp=CAU"
+      },
+      {
+        "name": "Matar Paneer",
+        "price": 4.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpx-9GLO4JAYojQn_orLqiPGtPNmCWWtz2A&usqp=CAU"
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrozsC6kK1f3kZ7gHgWn9LLL9RNyFud4ldYA&usqp=CAU"
+      },
+      {
+        "name": "Lachha Paratha",
+        "price": 4.00,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PDaQIlFcc4a68lqadrCK7FoSPBXsF8cppw&usqp=CAU"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": 3.25,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMss5_PpTZ69koc5vglb8g0x5nXR3UEY22g&usqp=CAU"
+      },
+      {
+        "name": "Masala Rice",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jp_UcdaAffSYPIAqQ7p6mzWLOeYRQk83EA&usqp=CAU"
+      },
+      {
+        "name": "Boondi Rayta",
+        "price": 3.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo17xwdT7cu0LoU1ryCDeGIQv6BdljgJhbGQ&usqp=CAU"
+      },
+      {
+        "name": "Butter Roti ",
+        "price": 8.09,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vq0aXCuvStEbLJhvVyoMJUVwrZ7XzG44vg&usqp=CAU"
+      },
+      {
+        "name": "Dal Butter",
+        "price": 6.49,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=420"
+      }
+    ]
+  },
+  {
+    "name":"Yum Yum",
+    "address":"AE-26,Kath Rd,Ram Ganga Vihar 3",
+    "delivery_charge": 5,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnsbquqiYuMPxwmjijqWkxr2Y51TKjH2fGw&usqp=CAU",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Dal Makhani",
+        "price": 10.00,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=40"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": 13.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFwTKzsESqhcmxb3hNk0XZUicElm_qifjog&usqp=CAU"
+      },
+      {
+        "name": "Matar Paneer",
+        "price": 4.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpx-9GLO4JAYojQn_orLqiPGtPNmCWWtz2A&usqp=CAU"
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrozsC6kK1f3kZ7gHgWn9LLL9RNyFud4ldYA&usqp=CAU"
+      },
+      {
+        "name": "Lachha Paratha",
+        "price": 4.00,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PDaQIlFcc4a68lqadrCK7FoSPBXsF8cppw&usqp=CAU"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": 3.25,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMss5_PpTZ69koc5vglb8g0x5nXR3UEY22g&usqp=CAU"
+      },
+      {
+        "name": "Masala Rice",
+        "price": 5.49,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jp_UcdaAffSYPIAqQ7p6mzWLOeYRQk83EA&usqp=CAU"
+      },
+      {
+        "name": "Boondi Rayta",
+        "price": 3.99,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo17xwdT7cu0LoU1ryCDeGIQv6BdljgJhbGQ&usqp=CAU"
+      },
+      {
+        "name": "Butter Roti ",
+        "price": 8.09,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vq0aXCuvStEbLJhvVyoMJUVwrZ7XzG44vg&usqp=CAU"
+      },
+      {
+        "name": "Dal Butter",
+        "price": 6.49,
+        "url": "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg?density=3&height=300&width=420"
+      }
+    ]
+  }
+]

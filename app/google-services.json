@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "650910004442",
+    "project_id": "foodorderapp-8c66a",
+    "storage_bucket": "foodorderapp-8c66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650910004442:android:d5d47065e43c30f437e1e3",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650910004442-lf3q2n3mai85ecbj2coscl03gt0bs5k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.foodorderapp",
+            "certificate_hash": "379969145f7c4c4df47d86095ebd318c77c0f874"
+          }
+        },
+        {
+          "client_id": "650910004442-8dp83foub5t80iko0vet9vgscbcquhgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBocNX8ZQSEgu9lytprzYihXlXZ4gklvtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650910004442-8dp83foub5t80iko0vet9vgscbcquhgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650910004442:android:a7ff74aae00ffa8437e1e3",
+        "android_client_info": {
+          "package_name": "com.unitral.kd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650910004442-8dp83foub5t80iko0vet9vgscbcquhgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBocNX8ZQSEgu9lytprzYihXlXZ4gklvtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650910004442-8dp83foub5t80iko0vet9vgscbcquhgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
